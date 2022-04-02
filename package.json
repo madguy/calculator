@@ -1,0 +1,10 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "reload"
+  },
+  "devDependencies": {
+    "reload": "3.2.0"
+  }
+}

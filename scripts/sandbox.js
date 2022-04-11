@@ -4,4 +4,4 @@ function writeConsole(text = '') {
   console.log(text);
 }
 
-writeConsole();
+writeConsole('sandbox...');

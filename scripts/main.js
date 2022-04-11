@@ -1,3 +1,4 @@
+'use strict';
 const BUTTONS = document.querySelectorAll("#keys > button");
 
 function writeResult(text = '0') {
